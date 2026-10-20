@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class ModifikasiSiakadFor26 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Masukkan jumlah mahasisw :");
+        System.out.println("Masukkan jumlah mahasiswa :");
         int jumlah =  sc.nextInt();
         int tertinggi = 0;
         int terendah = 100;

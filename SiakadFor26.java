@@ -13,8 +13,8 @@ public class SiakadFor26 {
             if (nilai < terendah) {
                 terendah = nilai;
             }
-            System.out.println("Nilai tertinggi" + tertinggi);
-            System.out.println("Nilai terendah" + terendah);
+            System.out.println("Nilai tertinggi :" + tertinggi);
+            System.out.println("Nilai terendah :" + terendah);
         }
     }
 }
